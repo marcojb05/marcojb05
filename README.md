@@ -1,192 +1,135 @@
-# Hi, I'm Marco Antonio Jiménez Bautista
+<h1 align="center">Hi, I'm Marco Jiménez</h1>
 
-Backend Software Engineer specialized in Python and Django, focused on designing systems that solve real operational problems for educational institutions through scalable architectures, automation, and Artificial Intelligence.
+<p align="center">
+Backend Software Engineer focused on designing systems that solve real operational problems for educational institutions through scalable architectures, automation, and Artificial Intelligence.
+</p>
 
-Rather than simply building software, I enjoy understanding complex processes, simplifying them, and transforming them into reliable solutions that people can use every day.
+<p align="center">
+<a href="https://www.linkedin.com/in/marcoajb01">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## About Me
-
-I currently work as a Software Development Coordinator, where I lead the design and development of web applications, APIs, and AI-powered systems.
-
-My work spans the complete software lifecycle:
-
-- Requirements analysis
-- System architecture
-- Backend development
-- API design
-- Database modeling
-- AI integration
-- Deployment and infrastructure
-- Technical leadership
-
-My primary focus is developing maintainable software that remains valuable long after its initial release.
+<a href="mailto:antonio2552001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## What I'm Building
+## About
 
-### MotoFix AI
+I design backend systems that automate institutional processes, integrate Artificial Intelligence, and transform business requirements into scalable software.
 
-An AI-powered expert system for motorcycle diagnostics and repair.
+Currently working as a **Software Development Coordinator**, leading the design and development of web applications, APIs, AI-powered systems and educational platforms.
 
-The platform combines Large Language Models with Retrieval-Augmented Generation (RAG) to provide accurate answers based on a structured knowledge base built from years of technical documentation.
-
-**Technologies**
-
-- Python
-- Django
-- OpenAI API
-- Qdrant
-- MySQL
-- Docker
+My work covers the complete software lifecycle—from architecture and backend development to deployment, infrastructure and technical leadership.
 
 ---
 
-### SETyCE
+## Currently Building
 
-A platform for managing electronic academic documents for higher education institutions.
-
-The system automates the generation, validation, signing, and management of electronic degrees and certificates according to the Mexican Ministry of Education (SEP) standards.
-
-Key capabilities include:
-
-- Institutional management
-- Electronic document generation
-- REST APIs
-- Digital signature workflows
-- XML generation
-- Process automation
+| Project | Description |
+|----------|-------------|
+| **MotoFix AI** | AI-powered expert system for motorcycle diagnostics using OpenAI, RAG and Qdrant. |
+| **SETyCE** | Electronic academic documents platform for higher education institutions. |
+| **Educational Platforms** | Moodle administration, migrations and infrastructure optimization. |
+| **Hunic by Fuko** | Recruitment platform for the automotive industry. |
 
 ---
 
-### Educational Platforms
-
-Administration, migration, optimization, and integration of Moodle-based educational environments.
-
-Areas of work include:
-
-- Infrastructure management
-- Performance optimization
-- Cloud migrations
-
----
-
-# Engineering Interests
-
-I enjoy solving problems involving:
+## Engineering Interests
 
 - Backend Architecture
 - REST API Design
-- Artificial Intelligence Integration
+- Artificial Intelligence
 - Retrieval-Augmented Generation (RAG)
-- Vector Databases
+- Process Automation
 - Educational Technology
 - Database Design
-- Process Automation
-- Software Architecture
 - Linux Infrastructure
-
----
-
-# Technology Stack
-
-## Languages
-
-- Python
-- Java
-- JavaScript
-- PHP
-- SQL
-
-## Backend
-
-- Django
-- Django REST Framework
-- Java
-- PHP
-- CodeIgniter 4
-
-## Frontend
-
-- Bootstrap
-- HTML
-- CSS
-- JavaScript
-
-## Databases
-
-- PostgreSQL
-- MySQL
-- SQLite
-- Qdrant
-
-## Artificial Intelligence
-
-- OpenAI API
-- Embeddings
-- Retrieval-Augmented Generation (RAG)
-
-## DevOps & Infrastructure
-
-- Docker
-- Linux
-- Gunicorn
-- Nginx
-- CloudPanel
-- Plesk
-- Git
-- GitHub
-
----
-
-# How I Like to Work
-
-I believe good software should be:
-
-- Easy to maintain
-- Well documented
-- Modular
-- Scalable
-- Testable
-- Focused on solving business problems instead of only implementing features
-
-Whenever possible, I prefer investing time in designing a clean architecture rather than accumulating technical debt.
-
----
-
-# Current Learning
-
-I'm continuously improving my knowledge in:
-
-- Distributed Systems
-- Cloud Infrastructure
-- DevOps
 - Software Architecture
-- Artificial Intelligence
 
 ---
 
-# GitHub Goals
+## Technology Stack
 
-This GitHub profile documents projects that reflect my growth as a software engineer.
+### Languages
 
-My objective is to build repositories that demonstrate:
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css"/>
+</p>
 
-- Clean architecture
-- Good engineering practices
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+</p>
+
+### Artificial Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-3F51B5?style=for-the-badge"/>
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudPanel-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge"/>
+</p>
+
+---
+
+## Engineering Principles
+
+- Build software around business problems.
+- Design for maintainability.
+- Prefer simple architectures over unnecessary complexity.
+- Automate repetitive processes.
+- Write code that other developers can easily understand and extend.
+
+---
+
+## GitHub Goals
+
+This profile showcases projects that reflect my growth as a software engineer.
+
+I aim to build repositories that demonstrate:
+
+- Clean Architecture
 - Real-world problem solving
-- Maintainable code
+- Maintainable software
+- Good engineering practices
 - Continuous learning
 
 ---
 
-# Let's Connect
+## GitHub Analytics
 
-- LinkedIn: https://www.linkedin.com/in/marcoajb01
-- Email: antonio2552001@gmail.com
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcojb05&theme=transparent&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 
-> "Technology has the greatest impact when it simplifies complex processes and enables people to focus on what truly matters."
+> *Building software that simplifies complex processes and creates long-term value.*
