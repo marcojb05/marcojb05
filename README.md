@@ -126,10 +126,4 @@ I aim to build repositories that demonstrate:
 
 ---
 
-## GitHub Analytics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcojb05&theme=transparent&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
-
----
-
 > *Building software that simplifies complex processes and creates long-term value.*
