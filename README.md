@@ -30,7 +30,7 @@ My work covers the complete software lifecycle—from architecture and backend d
 
 | Project | Description |
 |----------|-------------|
-| **MotoFix AI** | AI-powered expert system for motorcycle diagnostics using OpenAI, RAG and Qdrant. |
+| **MotoFixe** | AI-powered expert system for motorcycle diagnostics using OpenAI, RAG and Qdrant. |
 | **SETyCE** | Electronic academic documents platform for higher education institutions. |
 | **Educational Platforms** | Moodle administration, migrations and infrastructure optimization. |
 | **Hunic by Fuko** | Recruitment platform for the automotive industry. |
